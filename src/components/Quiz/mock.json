@@ -1,0 +1,1614 @@
+{
+  "quizzes": [
+    [
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce definiție se potrivește cel mai bine termenului \"lucrător\" conform Legii securităţii şi sănătăţii în muncă nr.319/2006?",
+        "correct_answer": "Persoana angajată legal, inclusiv studenții și ucenicii în stagiu.",
+        "incorrect_answers": [
+          "Persoana care prestează activități casnice pentru o familie.",
+          "Orice persoană care lucrează într-o organizație fără contract de muncă."
+        ],
+        "options": [
+          "Persoana angajată legal, inclusiv studenții și ucenicii în stagiu.",
+          "Persoana care prestează activități casnice pentru o familie.",
+          "Orice persoană care lucrează într-o organizație fără contract de muncă."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce include conceptul de \"prevenire\" conform legislației privind securitatea și sănătatea în muncă?",
+        "correct_answer": "Măsuri luate în toate etapele procesului de muncă pentru evitarea riscurilor profesionale.",
+        "incorrect_answers": [
+          "Doar măsuri luate în cazul unui accident.",
+          "Aplicarea de măsuri după producerea unui incident."
+        ],
+        "options": [
+          "Măsuri luate în toate etapele procesului de muncă pentru evitarea riscurilor profesionale.",
+          "Doar măsuri luate în cazul unui accident.",
+          "Aplicarea de măsuri după producerea unui incident."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform legii, ce obligație are angajatorul în caz de pericol grav și iminent pentru lucrători?",
+        "correct_answer": "Să ia măsuri pentru evacuarea lucrătorilor și să oprească lucrul dacă e necesar.",
+        "incorrect_answers": [
+          "Să ignore riscul și să continue activitatea normală.",
+          "Să informeze lucrătorii doar după ce pericolul a trecut."
+        ],
+        "options": [
+          "Să ia măsuri pentru evacuarea lucrătorilor și să oprească lucrul dacă e necesar.",
+          "Să ignore riscul și să continue activitatea normală.",
+          "Să informeze lucrătorii doar după ce pericolul a trecut."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce element este esențial în înțelegerea cerințelor unui proiect tehnic de securitate?",
+        "correct_answer": "Obiectivele de securitate specificate.",
+        "incorrect_answers": [
+          "Numărul total de pagini al documentației.",
+          "Numărul de echipe implicate în proiect."
+        ],
+        "options": [
+          "Obiectivele de securitate specificate.",
+          "Numărul total de pagini al documentației.",
+          "Numărul de echipe implicate în proiect."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este rolul unei analize SWOT într-un proiect tehnic de securitate?",
+        "correct_answer": "Să identifice punctele forte, slabe, oportunitățile și amenințările.",
+        "incorrect_answers": [
+          "Să decidă costurile totale ale proiectului.",
+          "Să determine echipamentele necesare pentru implementare."
+        ],
+        "options": [
+          "Să identifice punctele forte, slabe, oportunitățile și amenințările.",
+          "Să decidă costurile totale ale proiectului.",
+          "Să determine echipamentele necesare pentru implementare."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce este evaluarea riscurilor în contextul proiectelor tehnice de securitate?",
+        "correct_answer": "Procesul de identificare și analiză a posibilelor probleme care pot afecta proiectul.",
+        "incorrect_answers": [
+          "Analiza costurilor materialelor folosite.",
+          "Stabilirea datei de început a proiectului."
+        ],
+        "options": [
+          "Procesul de identificare și analiză a posibilelor probleme care pot afecta proiectul.",
+          "Analiza costurilor materialelor folosite.",
+          "Stabilirea datei de început a proiectului."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este primul pas în procesul de elaborare a documentelor SMC?",
+        "correct_answer": "Identificarea necesității documentului.",
+        "incorrect_answers": [
+          "Redactarea documentului.",
+          "Definirea scopului și domeniului de aplicare."
+        ],
+        "options": [
+          "Identificarea necesității documentului.",
+          "Redactarea documentului.",
+          "Definirea scopului și domeniului de aplicare."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele metode de instalare a sistemelor tehnice de securitate este recomandată pentru proiecte complexe cu transmisie voluminoasă de date?",
+        "correct_answer": "Instalare cablată.",
+        "incorrect_answers": [
+          "Instalare wireless.",
+          "Instalare hibridă."
+        ],
+        "options": [
+          "Instalare cablată.",
+          "Instalare wireless.",
+          "Instalare hibridă."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este unul dintre aspectele esențiale în managementul echipei de instalare a sistemelor tehnice de securitate?",
+        "correct_answer": "Comunicarea clară și coordonarea strânsă între membrii echipei.",
+        "incorrect_answers": [
+          "Utilizarea exclusivă a instalării wireless.",
+          "Ignorarea graficelor de execuție."
+        ],
+        "options": [
+          "Comunicarea clară și coordonarea strânsă între membrii echipei.",
+          "Utilizarea exclusivă a instalării wireless.",
+          "Ignorarea graficelor de execuție."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform standardului SR EN 50131-1:2007, la ce grad de securitate se presupune că un intrus are cunoștințe limitate despre Sistemul de Alarmă și dispune de o gamă generală de unelte portabile?",
+        "correct_answer": "Grad 2",
+        "incorrect_answers": [
+          "Grad 1",
+          "Grad 3"
+        ],
+        "options": [
+          "Grad 2",
+          "Grad 1",
+          "Grad 3"
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care dintre următoarele aspecte NU se recomandă a fi luat în considerare la poziționarea detectoarelor de mișcare?",
+        "correct_answer": "Activarea permanentă a semnalizării testului de trecere.",
+        "incorrect_answers": [
+          "Asigurarea că raza de acțiune nu se extinde peste limitele zonei supravegheate în spații publice.",
+          "Fixarea pe o suprafață solidă pentru a evita obstrucționarea câmpului de vedere."
+        ],
+        "options": [
+          "Activarea permanentă a semnalizării testului de trecere.",
+          "Asigurarea că raza de acțiune nu se extinde peste limitele zonei supravegheate în spații publice.",
+          "Fixarea pe o suprafață solidă pentru a evita obstrucționarea câmpului de vedere."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce principiu fizic stă la baza funcționării detectoarelor de mișcare cu ultrasunete active?",
+        "correct_answer": "Efectul Doppler",
+        "incorrect_answers": [
+          "Efectul fotoelectric",
+          "Efectul termoelectric"
+        ],
+        "options": [
+          "Efectul Doppler",
+          "Efectul fotoelectric",
+          "Efectul termoelectric"
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este unul dintre mecanismele prin care un intrus poate încerca să neutralizeze un detector de mișcare pasiv în infraroșu (PIR)?",
+        "correct_answer": "Scăzând diferența de temperatură dintre intrus și mediu.",
+        "incorrect_answers": [
+          "Producând zgomote ultrasonice.",
+          "Deplasându-se în cerc în jurul detectorului."
+        ],
+        "options": [
+          "Scăzând diferența de temperatură dintre intrus și mediu.",
+          "Producând zgomote ultrasonice.",
+          "Deplasându-se în cerc în jurul detectorului."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele tipuri de detectoare cu microunde are o directivitate foarte largă și o distanță de detecție mică, fiind folosit pentru aplicații de interior?",
+        "correct_answer": "Senzori monobloc",
+        "incorrect_answers": [
+          "Senzori în tandem",
+          "Senzori piezoelectrici"
+        ],
+        "options": [
+          "Senzori monobloc",
+          "Senzori în tandem",
+          "Senzori piezoelectrici"
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este principalul avantaj al utilizării senzorilor combinați (acustici + șoc) pentru detectarea geamurilor sparte?",
+        "correct_answer": "Îmbunătățesc probabilitatea de descoperire și reduc rata alarmelor false.",
+        "incorrect_answers": [
+          "Reduc costurile de instalare.",
+          "Funcționează doar pe sticlă laminată."
+        ],
+        "options": [
+          "Îmbunătățesc probabilitatea de descoperire și reduc rata alarmelor false.",
+          "Reduc costurile de instalare.",
+          "Funcționează doar pe sticlă laminată."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este unul dintre factorii care pot afecta semnificativ performanța detectorului de geam spart?",
+        "correct_answer": "Prezența unei draperii groase care acoperă fereastra.",
+        "incorrect_answers": [
+          "Culoarea geamului.",
+          "Înălțimea la care este montat geamul."
+        ],
+        "options": [
+          "Prezența unei draperii groase care acoperă fereastra.",
+          "Culoarea geamului.",
+          "Înălțimea la care este montat geamul."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este una dintre principalele preocupări în identificarea persoanelor în sistemele de securitate moderne?",
+        "correct_answer": "Culegerea informațiilor despre persoane.",
+        "incorrect_answers": [
+          "Identificarea produselor și ambalajelor.",
+          "Identificarea vehiculelor."
+        ],
+        "options": [
+          "Culegerea informațiilor despre persoane.",
+          "Identificarea produselor și ambalajelor.",
+          "Identificarea vehiculelor."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este scopul principal al realizării unei analize tehnice a spațiilor care vor fi supravegheate de un sistem de alarmă împotriva efracției?",
+        "correct_answer": "Asigurarea compatibilității performanțelor sistemului de alarmă cu cerințele proiectului.",
+        "incorrect_answers": [
+          "Stabilirea costului total al sistemului de alarmă.",
+          "Identificarea potențialilor instalatori pentru sistemul de alarmă."
+        ],
+        "options": [
+          "Asigurarea compatibilității performanțelor sistemului de alarmă cu cerințele proiectului.",
+          "Stabilirea costului total al sistemului de alarmă.",
+          "Identificarea potențialilor instalatori pentru sistemul de alarmă."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele afirmații este corectă în ceea ce privește cablajul unui sistem de alarmă împotriva efracției?",
+        "correct_answer": "Cablurile trebuie instalate în spații protejate, cum ar fi tunele de cabluri sau tuburi, pentru a le feri de deteriorări mecanice.",
+        "incorrect_answers": [
+          "Cablurile pot fi instalate la vedere, pe pereți sau tavane, fără protecție suplimentară.",
+          "Cablurile pot fi instalate direct în beton, fără nicio altă protecție."
+        ],
+        "options": [
+          "Cablurile trebuie instalate în spații protejate, cum ar fi tunele de cabluri sau tuburi, pentru a le feri de deteriorări mecanice.",
+          "Cablurile pot fi instalate la vedere, pe pereți sau tavane, fără protecție suplimentară.",
+          "Cablurile pot fi instalate direct în beton, fără nicio altă protecție."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este principala preocupare în ceea ce privește cablarea sistemului de control acces (SCA)?",
+        "correct_answer": "Protejarea cablurilor de deteriorare fizică sau interferență deliberate.",
+        "incorrect_answers": [
+          "Asigurarea celei mai scurte distanțe posibile între componentele sistemului.",
+          "Menținerea clasificării la incendiu a clădirii."
+        ],
+        "options": [
+          "Protejarea cablurilor de deteriorare fizică sau interferență deliberate.",
+          "Asigurarea celei mai scurte distanțe posibile între componentele sistemului.",
+          "Menținerea clasificării la incendiu a clădirii."
+        ]
+      }
+    ],
+    [
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este funcția unui detector resetabil de la distanță?",
+        "correct_answer": "Poate fi trecut din starea de alarmă în starea normală de veghe printr-o acționare efectuată de la distanță.",
+        "incorrect_answers": [
+          "Detectează modificările în curenții de ionizare din interiorul detectorului.",
+          "Generează o stare de ieșire digital codificată corespunzătoare valorii parametrului sesizat."
+        ],
+        "options": [
+          "Poate fi trecut din starea de alarmă în starea normală de veghe printr-o acționare efectuată de la distanță.",
+          "Detectează modificările în curenții de ionizare din interiorul detectorului.",
+          "Generează o stare de ieșire digital codificată corespunzătoare valorii parametrului sesizat."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce aspecte trebuie verificate în testarea funcțională a unui sistem tehnic de detecție și semnalizare a efracției (I&HAS)?",
+        "correct_answer": "Funcționarea corectă a fiecărui detector și dispozitiv de semnalizare și răspunsul CIE la scenarii de alarmă.",
+        "incorrect_answers": [
+          "Doar alimentarea surselor de energie.",
+          "Numărul total de utilizatori înregistrați."
+        ],
+        "options": [
+          "Funcționarea corectă a fiecărui detector și dispozitiv de semnalizare și răspunsul CIE la scenarii de alarmă.",
+          "Doar alimentarea surselor de energie.",
+          "Numărul total de utilizatori înregistrați."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este una dintre principalele obligații ale angajatorului conform articolului 6 din Legea nr. 319/2006?",
+        "correct_answer": "Să asigure securitatea și sănătatea lucrătorilor în toate aspectele legate de muncă.",
+        "incorrect_answers": [
+          "Să asigure protecția angajaților doar atunci când sunt accidente.",
+          "Să excludă protecția lucrătorilor externi."
+        ],
+        "options": [
+          "Să asigure securitatea și sănătatea lucrătorilor în toate aspectele legate de muncă.",
+          "Să asigure protecția angajaților doar atunci când sunt accidente.",
+          "Să excludă protecția lucrătorilor externi."
+        ]
+      },
+      {
+        "category": "SSM & Sisteme de Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele NU reprezintă o cauză obișnuită a alarmelor false pentru detectoarele de mișcare cu ultrasunete active?",
+        "correct_answer": "Schimbări bruște ale temperaturii cauzate de instalații de încălzire.",
+        "incorrect_answers": [
+          "Mișcări ale aerului produse de ventilatoare.",
+          "Șuierături ale conductelor de apă."
+        ],
+        "options": [
+          "Schimbări bruște ale temperaturii cauzate de instalații de încălzire.",
+          "Mișcări ale aerului produse de ventilatoare.",
+          "Șuierături ale conductelor de apă."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce tip de detector de incendiu este sensibil la particulele de fum mai mari produse de arderea lentă?",
+        "correct_answer": "Detector optic (fotoelectric) de fum.",
+        "incorrect_answers": [
+          "Detector de fum de ionizare.",
+          "Detector de căldură termic fix."
+        ],
+        "options": [
+          "Detector optic (fotoelectric) de fum.",
+          "Detector de fum de ionizare.",
+          "Detector de căldură termic fix."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform Legii nr. 307/2006, ce este necesar pentru începerea lucrărilor de execuție la construcții noi?",
+        "correct_answer": "Emiterea unui aviz de securitate la incendiu.",
+        "incorrect_answers": [
+          "Obținerea unui certificat de finalizare a lucrărilor.",
+          "Îndeplinirea formalităților de înregistrare la primărie."
+        ],
+        "options": [
+          "Emiterea unui aviz de securitate la incendiu.",
+          "Obținerea unui certificat de finalizare a lucrărilor.",
+          "Îndeplinirea formalităților de înregistrare la primărie."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele zone din clădiri trebuie supravegheate suplimentar prin sisteme de detectare, semnalizare și alarmare la incendiu?",
+        "correct_answer": "Canalele și puțurile de cabluri.",
+        "incorrect_answers": [
+          "Spațiile de depozitare a materialelor necombustibile.",
+          "Spațiile de circulație exterioară clădirii."
+        ],
+        "options": [
+          "Canalele și puțurile de cabluri.",
+          "Spațiile de depozitare a materialelor necombustibile.",
+          "Spațiile de circulație exterioară clădirii."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este secțiunea minimă a conductoarelor pentru circuitele electrice destinate IDSAI?",
+        "correct_answer": "0,8 mm",
+        "incorrect_answers": [
+          "0,5 mm",
+          "1,0 mm"
+        ],
+        "options": [
+          "0,8 mm",
+          "0,5 mm",
+          "1,0 mm"
+        ]
+      },
+      {
+        "category": "SAE / SR EN 50131",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Când un Sistem de Alarmă (SA) este divizat în subsisteme cu grade diferite de securitate, cum se determină gradul unui subsistem?",
+        "correct_answer": "Prin gradul componentei cu nivelul cel mai scăzut.",
+        "incorrect_answers": [
+          "Prin media gradelor componentelor.",
+          "Prin gradul componentei cu nivelul cel mai înalt."
+        ],
+        "options": [
+          "Prin gradul componentei cu nivelul cel mai scăzut.",
+          "Prin media gradelor componentelor.",
+          "Prin gradul componentei cu nivelul cel mai înalt."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce considerent este crucial la amplasarea declanșatoarelor manuale de alarmare?",
+        "correct_answer": "Să fie amplasate astfel încât să fie ușor accesibile oricărei persoane care depistează un incendiu.",
+        "incorrect_answers": [
+          "Să fie ascunse pentru a nu atrage atenția nedorită.",
+          "Să fie amplasate doar în spații deschise pentru a evita activarea accidentală."
+        ],
+        "options": [
+          "Să fie amplasate astfel încât să fie ușor accesibile oricărei persoane care depistează un incendiu.",
+          "Să fie ascunse pentru a nu atrage atenția nedorită.",
+          "Să fie amplasate doar în spații deschise pentru a evita activarea accidentală."
+        ]
+      },
+      {
+        "category": "Senzori & Perimetral",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce avantaj oferă comutatoarele balansate față de comutatoarele mecanice sau magnetice simple?",
+        "correct_answer": "Elimină posibilitatea blocării simultane a comutatoarelor.",
+        "incorrect_answers": [
+          "Sunt mai ușor de instalat.",
+          "Funcționează doar pe uși, nu și pe ferestre."
+        ],
+        "options": [
+          "Elimină posibilitatea blocării simultane a comutatoarelor.",
+          "Sunt mai ușor de instalat.",
+          "Funcționează doar pe uși, nu și pe ferestre."
+        ]
+      },
+      {
+        "category": "CCTV",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce criteriu este esențial pentru selectarea corectă a unui obiectiv de cameră pentru a asigura un câmp de vizualizare adecvat?",
+        "correct_answer": "Distanța focală a obiectivului în raport cu diagonala senzorului de imagine.",
+        "incorrect_answers": [
+          "Capacitatea de stocare a sistemului.",
+          "Tipul de cabluri utilizate pentru conectare."
+        ],
+        "options": [
+          "Distanța focală a obiectivului în raport cu diagonala senzorului de imagine.",
+          "Capacitatea de stocare a sistemului.",
+          "Tipul de cabluri utilizate pentru conectare."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce măsură este menționată în Articolul 50 din OMAI nr. 163/2007 pentru limitarea izbucnirii și propagării incendiului?",
+        "correct_answer": "Asigurarea nivelurilor corespunzătoare ale performanțelor de reacție la foc și de rezistență la foc prevăzute de reglementările tehnice.",
+        "incorrect_answers": [
+          "Crearea unor locuri de evacuare în caz de incendiu.",
+          "Utilizarea echipamentelor de ventilație standard."
+        ],
+        "options": [
+          "Asigurarea nivelurilor corespunzătoare ale performanțelor de reacție la foc și de rezistență la foc prevăzute de reglementările tehnice.",
+          "Crearea unor locuri de evacuare în caz de incendiu.",
+          "Utilizarea echipamentelor de ventilație standard."
+        ]
+      },
+      {
+        "category": "Proiectare Securitate",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce metodă este utilizată pentru a clarifica complexitatea tehnică a unui proiect de securitate?",
+        "correct_answer": "Diagramele de flux și hărțile de risc.",
+        "incorrect_answers": [
+          "Numărarea echipamentelor folosite.",
+          "Estimarea duratei proiectului."
+        ],
+        "options": [
+          "Diagramele de flux și hărțile de risc.",
+          "Numărarea echipamentelor folosite.",
+          "Estimarea duratei proiectului."
+        ]
+      },
+      {
+        "category": "SSV (Supraveghere Video)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce activități sunt incluse în managementul activității într-un SSV?",
+        "correct_answer": "Configurarea sistemului, controlul sistemului, analiza după eveniment și alte activități inițiate de către un operator.",
+        "incorrect_answers": [
+          "Instalarea echipamentului fizic.",
+          "Realizarea conexiunilor fizice între dispozitive."
+        ],
+        "options": [
+          "Configurarea sistemului, controlul sistemului, analiza după eveniment și alte activități inițiate de către un operator.",
+          "Instalarea echipamentului fizic.",
+          "Realizarea conexiunilor fizice între dispozitive."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele metode este utilizată pentru a evita alarmele false în sistemele de detectare a incendiilor?",
+        "correct_answer": "Alegerea corectă a detectorului și utilizarea de algoritmi potriviți pentru procesul de luare a deciziei.",
+        "incorrect_answers": [
+          "Instalarea unui singur tip de detector.",
+          "Ignorarea nivelului de sensibilitate al detectorului."
+        ],
+        "options": [
+          "Alegerea corectă a detectorului și utilizarea de algoritmi potriviți pentru procesul de luare a deciziei.",
+          "Instalarea unui singur tip de detector.",
+          "Ignorarea nivelului de sensibilitate al detectorului."
+        ]
+      },
+      {
+        "category": "Sisteme de Incendiu / HVAC",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Unde este cel mai recomandat să se monteze detectoarele de fum în conductele de aer pentru a asigura eficiența maximă?",
+        "correct_answer": "Pe porțiunile drepte ale conductelor, la o distanță de cel puțin trei ori diametrul conductei față de cel mai apropiat cot sau derivație.",
+        "incorrect_answers": [
+          "În apropierea coturilor sau derivațiilor conductelor.",
+          "La punctele de ieșire ale conductelor."
+        ],
+        "options": [
+          "Pe porțiunile drepte ale conductelor, la o distanță de cel puțin trei ori diametrul conductei față de cel mai apropiat cot sau derivație.",
+          "În apropierea coturilor sau derivațiilor conductelor.",
+          "La punctele de ieșire ale conductelor."
+        ]
+      },
+      {
+        "category": "SSV (Supraveghere Video)",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce se recomandă a fi efectuat după finalizarea instalării unui SSV?",
+        "correct_answer": "Încercările de punere în funcțiune și instruirea inițială a tehnicienilor.",
+        "incorrect_answers": [
+          "Eliminarea tuturor documentelor de proiectare.",
+          "Reconfigurarea tuturor setărilor echipamentelor fără a le testa."
+        ],
+        "options": [
+          "Încercările de punere în funcțiune și instruirea inițială a tehnicienilor.",
+          "Eliminarea tuturor documentelor de proiectare.",
+          "Reconfigurarea tuturor setărilor echipamentelor fără a le testa."
+        ]
+      },
+      {
+        "category": "SCA (Control Acces)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este scopul principal al planificării sistemului de control acces (SCA)?",
+        "correct_answer": "Permite accesul controlat la perimetrele protejate în caz de erori ale sistemului.",
+        "incorrect_answers": [
+          "Asigurarea compatibilității echipamentelor cu infrastructura existentă.",
+          "Stabilirea gradului de securitate al zonelor din perimetrul protejat."
+        ],
+        "options": [
+          "Permite accesul controlat la perimetrele protejate în caz de erori ale sistemului.",
+          "Asigurarea compatibilității echipamentelor cu infrastructura existentă.",
+          "Stabilirea gradului de securitate al zonelor din perimetrul protejat."
+        ]
+      },
+      {
+        "category": "SMC (Sistemul de Management al Calității)",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care dintre următoarele documente oferă detalii specifice despre cum să se realizeze anumite sarcini în cadrul Sistemului de Management al Calității (SMC)?",
+        "correct_answer": "Instrucțiunile de Lucru.",
+        "incorrect_answers": [
+          "Manualul Calității.",
+          "Procedurile Operaționale Standard (POS)."
+        ],
+        "options": [
+          "Instrucțiunile de Lucru.",
+          "Manualul Calității.",
+          "Procedurile Operaționale Standard (POS)."
+        ]
+      }
+    ],
+    [
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele nu face obiectul Normativului P 118/3-2015?",
+        "correct_answer": "Instalații de detectare, semnalizare și alarmare a incendiilor din metrou.",
+        "incorrect_answers": [
+          "Instalații de detectare, semnalizare și alarmare a incendiilor din construcții civile.",
+          "Instalații de detectare, semnalizare și alarmare a incendiilor din construcții de producție și/sau depozitare."
+        ],
+        "options": [
+          "Instalații de detectare, semnalizare și alarmare a incendiilor din construcții civile.",
+          "Instalații de detectare, semnalizare și alarmare a incendiilor din construcții de producție și/sau depozitare.",
+          "Instalații de detectare, semnalizare și alarmare a incendiilor din metrou."
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care dintre următoarele categorii de clădiri nu sunt obligate să aibă instalate sisteme de detectare, semnalizare și alarmare la incendiu?",
+        "correct_answer": "Clădiri de birouri cu o arie desfășurată mai mică de 600 m².",
+        "incorrect_answers": [
+          "Clădiri de locuit cu mai mult de patru niveluri supraterane, având mansarde amenajate.",
+          "Clădiri de învățământ care adăpostesc mai mult de 200 de persoane."
+        ],
+        "options": [
+          "Clădiri de birouri cu o arie desfășurată mai mică de 600 m².",
+          "Clădiri de locuit cu mai mult de patru niveluri supraterane, având mansarde amenajate.",
+          "Clădiri de învățământ care adăpostesc mai mult de 200 de persoane."
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele condiții trebuie să fie îndeplinită pentru ca spațiul dintre planșeu și tavanul fals să fie exceptat de la supraveghere?",
+        "correct_answer": "Sarcina termică trebuie să fie mai mică de 25 MJ/m².",
+        "incorrect_answers": [
+          "Înălțimea spațiului trebuie să fie de cel puțin 1 metru.",
+          "Spațiul poate conține componente ale sistemului de iluminat de siguranță."
+        ],
+        "options": [
+          "Înălțimea spațiului trebuie să fie de cel puțin 1 metru.",
+          "Sarcina termică trebuie să fie mai mică de 25 MJ/m².",
+          "Spațiul poate conține componente ale sistemului de iluminat de siguranță."
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este numărul maxim de detectoare care pot fi conectate la un echipament de control și semnalizare (ECS) pentru a asigura funcționarea corespunzătoare?",
+        "correct_answer": "512 detectoare",
+        "incorrect_answers": [
+          "600 detectoare",
+          "1000 detectoare"
+        ],
+        "options": [
+          "600 detectoare",
+          "512 detectoare",
+          "1000 detectoare"
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce măsură trebuie luată în proiectarea unui sistem de detectare, semnalizare și alarmare incendiu pentru a preveni pierderea protecției pe mai mult de 1600 m² în caz de defect?",
+        "correct_answer": "Utilizarea izolatoarelor de scurtcircuit în rețelele în buclă.",
+        "incorrect_answers": [
+          "Utilizarea echipamentelor de înregistrare rapidă.",
+          "Utilizarea sistemelor de management al situațiilor de pericol."
+        ],
+        "options": [
+          "Utilizarea echipamentelor de înregistrare rapidă.",
+          "Utilizarea sistemelor de management al situațiilor de pericol.",
+          "Utilizarea izolatoarelor de scurtcircuit în rețelele în buclă."
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este aria maximă pe care o poate acoperi o zonă de detectare într-un sistem de detectare a incendiilor?",
+        "correct_answer": "1600 m²",
+        "incorrect_answers": [
+          "1000 m²",
+          "400 m²"
+        ],
+        "options": [
+          "1600 m²",
+          "1000 m²",
+          "400 m²"
+        ]
+      },
+      {
+        "category": "Detectoare & Principii",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este modul de funcționare al detectorului de fum optic?",
+        "correct_answer": "Detectează întreruperile într-un fascicul de lumină.",
+        "incorrect_answers": [
+          "Măsoară schimbările în ionizarea aerului.",
+          "Reacționează la schimbările rapide de temperatură."
+        ],
+        "options": [
+          "Detectează întreruperile într-un fascicul de lumină.",
+          "Măsoară schimbările în ionizarea aerului.",
+          "Reacționează la schimbările rapide de temperatură."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce este autorizația de securitate la incendiu conform Legii nr. 307/2006?",
+        "correct_answer": "Un act administrativ care certifică îndeplinirea cerinței de securitate la incendiu pentru punerea în funcțiune a construcțiilor.",
+        "incorrect_answers": [
+          "Un document care atestă conformitatea documentației tehnice cu reglementările în vigoare.",
+          "Un aviz care permite demararea lucrărilor de execuție pentru construcții noi."
+        ],
+        "options": [
+          "Un document care atestă conformitatea documentației tehnice cu reglementările în vigoare.",
+          "Un aviz care permite demararea lucrărilor de execuție pentru construcții noi.",
+          "Un act administrativ care certifică îndeplinirea cerinței de securitate la incendiu pentru punerea în funcțiune a construcțiilor."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce obligație au proiectanții de construcții conform articolului 23 din Legea nr. 307/2006?",
+        "correct_answer": "Să elaboreze scenarii de securitate la incendiu și să evalueze riscurile de incendiu.",
+        "incorrect_answers": [
+          "Să instaleze echipamentele de protecție împotriva incendiilor.",
+          "Să supravegheze lucrările de construcție și montaj."
+        ],
+        "options": [
+          "Să elaboreze scenarii de securitate la incendiu și să evalueze riscurile de incendiu.",
+          "Să instaleze echipamentele de protecție împotriva incendiilor.",
+          "Să supravegheze lucrările de construcție și montaj."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform Articolului 52 din Legea nr. 307/2006, cine elaborează metodologia de certificare a conformității produselor pentru apărarea împotriva incendiilor?",
+        "correct_answer": "Inspectoratul General pentru Situații de Urgență (IGSU).",
+        "incorrect_answers": [
+          "Ministerul Dezvoltării, Lucrărilor Publice și Administrației.",
+          "Ministerul Mediului."
+        ],
+        "options": [
+          "Ministerul Dezvoltării, Lucrărilor Publice și Administrației.",
+          "Inspectoratul General pentru Situații de Urgență (IGSU).",
+          "Ministerul Mediului."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este scopul principal al Normelor generale de apărare împotriva incendiilor conform OMAI nr. 163/2007?",
+        "correct_answer": "Prevenirea și reducerea riscurilor de incendii și asigurarea condițiilor pentru limitarea propagării și dezvoltării incendiilor.",
+        "incorrect_answers": [
+          "Emiterea autorizațiilor de construire pentru clădiri noi.",
+          "Întocmirea planurilor urbanistice pentru zone rezidențiale."
+        ],
+        "options": [
+          "Prevenirea și reducerea riscurilor de incendii și asigurarea condițiilor pentru limitarea propagării și dezvoltării incendiilor.",
+          "Emiterea autorizațiilor de construire pentru clădiri noi.",
+          "Întocmirea planurilor urbanistice pentru zone rezidențiale."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform Articolului 53 din OMAI nr. 163/2007, cine poate efectua lucrările de proiectare, montare, verificare, întreținere și reparare a sistemelor de apărare împotriva incendiilor?",
+        "correct_answer": "Persoane fizice și juridice atestate.",
+        "incorrect_answers": [
+          "Orice persoană cu experiență în construcții.",
+          "Autoritățile locale de administrație publică."
+        ],
+        "options": [
+          "Persoane fizice și juridice atestate.",
+          "Orice persoană cu experiență în construcții.",
+          "Autoritățile locale de administrație publică."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce documentație trebuie să fie pusă la dispoziția beneficiarului de către producători, furnizori, proiectanți și executanți de mijloace tehnice de apărare împotriva incendiilor conform Articolului 128 din OMAI nr. 163/2007?",
+        "correct_answer": "Documentația tehnică aferentă, schema sinoptică și instrucțiunile de utilizare.",
+        "incorrect_answers": [
+          "Certificatul de garanție și factura de achiziție.",
+          "Autorizația de construcție și raportul de inspecție a muncii."
+        ],
+        "options": [
+          "Documentația tehnică aferentă, schema sinoptică și instrucțiunile de utilizare.",
+          "Certificatul de garanție și factura de achiziție.",
+          "Autorizația de construcție și raportul de inspecție a muncii."
+        ]
+      },
+      {
+        "category": "Detectoare & Proiectare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următorii factori influențează alegerea tipului de detector de incendiu?",
+        "correct_answer": "Materialele aflate în zonă și modul în care acestea ar arde.",
+        "incorrect_answers": [
+          "Cantitatea de apă disponibilă pentru stingere.",
+          "Numărul de ieșiri de urgență."
+        ],
+        "options": [
+          "Materialele aflate în zonă și modul în care acestea ar arde.",
+          "Cantitatea de apă disponibilă pentru stingere.",
+          "Numărul de ieșiri de urgență."
+        ]
+      },
+      {
+        "category": "Detectoare & Principii",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce caracteristică definește un detector de fum prin aspirație?",
+        "correct_answer": "Atrage aerul și aerosolii din zonă către elementele sensibile printr-un sistem de prelevare.",
+        "incorrect_answers": [
+          "Detectează radiația electromagnetică emisă de flăcări.",
+          "Răspunde la o creștere bruscă a temperaturii într-o anumită zonă."
+        ],
+        "options": [
+          "Atrage aerul și aerosolii din zonă către elementele sensibile printr-un sistem de prelevare.",
+          "Detectează radiația electromagnetică emisă de flăcări.",
+          "Răspunde la o creștere bruscă a temperaturii într-o anumită zonă."
+        ]
+      },
+      {
+        "category": "Detectoare & Aplicații",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele situații ar justifica utilizarea unui detector de flacără?",
+        "correct_answer": "Supravegherea unei zone mari și deschise dintr-un depozit de cherestea.",
+        "incorrect_answers": [
+          "Supravegherea unui echipament electronic sensibil la praf.",
+          "Supravegherea unui mic birou cu tavan înalt."
+        ],
+        "options": [
+          "Supravegherea unei zone mari și deschise dintr-un depozit de cherestea.",
+          "Supravegherea unui echipament electronic sensibil la praf.",
+          "Supravegherea unui mic birou cu tavan înalt."
+        ]
+      },
+      {
+        "category": "Detectoare & Principii",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "În ce condiții este recomandată utilizarea detectoarelor de căldură termomaximale?",
+        "correct_answer": "În spații cu variații nesemnificative de temperatură.",
+        "incorrect_answers": [
+          "În locuri unde temperatura poate varia semnificativ în timpul activității normale.",
+          "În zone deschise, fără tavane sau suprafețe similare."
+        ],
+        "options": [
+          "În spații cu variații nesemnificative de temperatură.",
+          "În locuri unde temperatura poate varia semnificativ în timpul activității normale.",
+          "În zone deschise, fără tavane sau suprafețe similare."
+        ]
+      },
+      {
+        "category": "Declanșatoare Manuale",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care dintre următoarele caracteristici descrie un declanșator manual de alarmare de tip B?",
+        "correct_answer": "Declanșarea alarmei necesită o acțiune manuală suplimentară după spargerea elementului de siguranță.",
+        "incorrect_answers": [
+          "Declanșarea alarmei necesită doar spargerea elementului de siguranță.",
+          "Declanșatorul emite automat un semnal către dispecerat fără acțiune manuală."
+        ],
+        "options": [
+          "Declanșarea alarmei necesită doar spargerea elementului de siguranță.",
+          "Declanșarea alarmei necesită o acțiune manuală suplimentară după spargerea elementului de siguranță.",
+          "Declanșatorul emite automat un semnal către dispecerat fără acțiune manuală."
+        ]
+      },
+      {
+        "category": "Detectoare & Instalare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "De ce detectoarele punctuale de fum și căldură nu sunt adecvate utilizării în exterior?",
+        "correct_answer": "Pentru că necesită un tavan sau o suprafață similară pentru a direcționa produsele de ardere către detector.",
+        "incorrect_answers": [
+          "Pentru că necesită protecție împotriva radiațiilor UV.",
+          "Pentru că sunt prea sensibile la variațiile de temperatură exterioare."
+        ],
+        "options": [
+          "Pentru că necesită protecție împotriva radiațiilor UV.",
+          "Pentru că necesită un tavan sau o suprafață similară pentru a direcționa produsele de ardere către detector.",
+          "Pentru că sunt prea sensibile la variațiile de temperatură exterioare."
+        ]
+      },
+      {
+        "category": "Tavane false & Supraveghere",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "În ce condiții nu sunt necesare detectoare de fum suplimentare sub un tavan fals?",
+        "correct_answer": "Când tavanul fals permite circulația aerului în proporție mai mare de 75%.",
+        "incorrect_answers": [
+          "Când tavanul fals are deschizături mai mici de 50%.",
+          "Când tavanul fals este la o înălțime mai mare de 3 m."
+        ],
+        "options": [
+          "Când tavanul fals permite circulația aerului în proporție mai mare de 75%.",
+          "Când tavanul fals are deschizături mai mici de 50%.",
+          "Când tavanul fals este la o înălțime mai mare de 3 m."
+        ]
+      }
+    ],
+    [
+      {
+        "category": "Proiectare Securitate",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce aspect este cel mai important în faza de planificare a unui proiect tehnic de securitate?",
+        "correct_answer": "Definirea clară a cerințelor și specificațiilor tehnice.",
+        "incorrect_answers": [
+          "Alegerea mobilierului pentru birouri.",
+          "Selectarea software-ului de gestionare a proiectului."
+        ],
+        "options": [
+          "Alegerea mobilierului pentru birouri.",
+          "Definirea clară a cerințelor și specificațiilor tehnice.",
+          "Selectarea software-ului de gestionare a proiectului."
+        ]
+      },
+      {
+        "category": "Legislație SSM",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este una dintre măsurile pe care angajatorul trebuie să le ia în conformitate cu articolul 7 din Legea nr. 319/2006?",
+        "correct_answer": "Să evalueze și să combată riscurile la sursă.",
+        "incorrect_answers": [
+          "Să ofere doar echipamente individuale de protecție fără alte măsuri.",
+          "Să ignore schimbările condițiilor de muncă."
+        ],
+        "options": [
+          "Să ofere doar echipamente individuale de protecție fără alte măsuri.",
+          "Să evalueze și să combată riscurile la sursă.",
+          "Să ignore schimbările condițiilor de muncă."
+        ]
+      },
+      {
+        "category": "CCTV / PTZ",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care dintre următoarele nu este un criteriu de selecție pentru o cameră PTZ?",
+        "correct_answer": "Compatibilitatea cu rețelele digitale.",
+        "incorrect_answers": [
+          "Pozițiile prestabilite definite în cerințele operaționale.",
+          "Funcționalitatea de panoramare, înclinare și zoom."
+        ],
+        "options": [
+          "Pozițiile prestabilite definite în cerințele operaționale.",
+          "Compatibilitatea cu rețelele digitale.",
+          "Funcționalitatea de panoramare, înclinare și zoom."
+        ]
+      },
+      {
+        "category": "Detectoare căldură",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este distanța maximă dintre detectoarele de căldură pe holurile înguste și în spațiile din tavan cu un diametru mai mic de 3 m?",
+        "correct_answer": "20 m",
+        "incorrect_answers": [
+          "15 m",
+          "10 m"
+        ],
+        "options": [
+          "15 m",
+          "10 m",
+          "20 m"
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce trebuie să includă testarea periodică a sistemelor de detectare și alarmare la incendiu?",
+        "correct_answer": "Verificarea funcționalității tuturor componentelor sistemului.",
+        "incorrect_answers": [
+          "Verificarea compatibilității echipamentelor cu alte sisteme de securitate.",
+          "Implementarea de protocoale de comunicație standardizate."
+        ],
+        "options": [
+          "Verificarea funcționalității tuturor componentelor sistemului.",
+          "Verificarea compatibilității echipamentelor cu alte sisteme de securitate.",
+          "Implementarea de protocoale de comunicație standardizate."
+        ]
+      },
+      {
+        "category": "ASD / Aspirativ",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce distanță maximă trebuie respectată între tuburile de aspirație în spațiile înalte de depozitare cu rafturi?",
+        "correct_answer": "6 m",
+        "incorrect_answers": [
+          "10 m",
+          "4 m"
+        ],
+        "options": [
+          "10 m",
+          "4 m",
+          "6 m"
+        ]
+      },
+      {
+        "category": "SCA / EACS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce funcționalități oferă măsurile electronice de control al accesului, pe lângă deschiderea ușilor?",
+        "correct_answer": "Permiterea sau interzicerea accesului în funcție de nevoile organizației și programări specifice.",
+        "incorrect_answers": [
+          "Generarea automată a rapoartelor de activitate.",
+          "Repararea ușilor defecte."
+        ],
+        "options": [
+          "Permiterea sau interzicerea accesului în funcție de nevoile organizației și programări specifice.",
+          "Generarea automată a rapoartelor de activitate.",
+          "Repararea ușilor defecte."
+        ]
+      },
+      {
+        "category": "Documentație Proiect",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce elemente trebuie să includă documentația tehnică pentru proiectarea unui sistem de detectare, semnalizare și alarmare incendiu?",
+        "correct_answer": "Lista componentelor sistemului, schema-bloc, identificarea echipamentului.",
+        "incorrect_answers": [
+          "Raportul de evaluare a riscurilor și lista materialelor utilizate.",
+          "Descrierea activităților de întreținere și costurile echipamentului."
+        ],
+        "options": [
+          "Lista componentelor sistemului, schema-bloc, identificarea echipamentului.",
+          "Raportul de evaluare a riscurilor și lista materialelor utilizate.",
+          "Descrierea activităților de întreținere și costurile echipamentului."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce constituie contravenție conform Articolului 45, litera k din Legea nr. 307/2006?",
+        "correct_answer": "Efectuarea de lucrări de protecție împotriva incendiilor de către persoane fizice și juridice neautorizate.",
+        "incorrect_answers": [
+          "Neemiterea autorizației de securitate la incendiu înainte de începerea lucrărilor de execuție.",
+          "Comercializarea de mijloace tehnice de apărare împotriva incendiilor fără certificare."
+        ],
+        "options": [
+          "Neemiterea autorizației de securitate la incendiu înainte de începerea lucrărilor de execuție.",
+          "Comercializarea de mijloace tehnice de apărare împotriva incendiilor fără certificare.",
+          "Efectuarea de lucrări de protecție împotriva incendiilor de către persoane fizice și juridice neautorizate."
+        ]
+      },
+      {
+        "category": "Management Proiect",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "În procesul de planificare a resurselor pentru instalarea sistemelor tehnice de securitate, ce tip de resurse pot include unelte specifice și software de configurare?",
+        "correct_answer": "Resurse tehnice",
+        "incorrect_answers": [
+          "Resurse umane",
+          "Resurse materiale"
+        ],
+        "options": [
+          "Resurse tehnice",
+          "Resurse umane",
+          "Resurse materiale"
+        ]
+      },
+      {
+        "category": "SCA / Cabling",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce trebuie luat în considerare la instalarea cablurilor pentru un sistem tehnic de control al accesului (EACS)?",
+        "correct_answer": "Minimizarea căderii tensiunii și pierderilor de semnal și protecția împotriva sabotajului.",
+        "incorrect_answers": [
+          "Numărul total de utilizatori.",
+          "Configurarea sistemului după preferințele individuale ale utilizatorilor."
+        ],
+        "options": [
+          "Minimizarea căderii tensiunii și pierderilor de semnal și protecția împotriva sabotajului.",
+          "Numărul total de utilizatori.",
+          "Configurarea sistemului după preferințele individuale ale utilizatorilor."
+        ]
+      },
+      {
+        "category": "Detectoare fum",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "De ce detectoarele de fum sunt mai predispuse la furnizarea alarmelor false în anumite condiții?",
+        "correct_answer": "Deoarece pot fi declanșate de fum, abur sau praf provenite din procese de producție.",
+        "incorrect_answers": [
+          "Deoarece sunt sensibile la radiațiile UV emise de echipamente electronice.",
+          "Deoarece pot detecta rapid schimbările de temperatură."
+        ],
+        "options": [
+          "Deoarece pot fi declanșate de fum, abur sau praf provenite din procese de producție.",
+          "Deoarece sunt sensibile la radiațiile UV emise de echipamente electronice.",
+          "Deoarece pot detecta rapid schimbările de temperatură."
+        ]
+      },
+      {
+        "category": "SSV / Proiectare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce acțiune trebuie luată dacă se identifică modificări ale condițiilor din obiectiv în timpul instalării SSV?",
+        "correct_answer": "Se rediscută cerințele operaționale și procesul de proiectare.",
+        "incorrect_answers": [
+          "Se continuă instalarea conform planului inițial.",
+          "Se oprește definitiv proiectul."
+        ],
+        "options": [
+          "Se continuă instalarea conform planului inițial.",
+          "Se rediscută cerințele operaționale și procesul de proiectare.",
+          "Se oprește definitiv proiectul."
+        ]
+      },
+      {
+        "category": "Legislație PSI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform Articolului 139 din OMAI nr. 163/2007, ce obligație au proprietarii sau utilizatorii construcțiilor privind mijloacele tehnice de apărare împotriva incendiilor?",
+        "correct_answer": "Să execute periodic controlul stării de funcționare a mijloacelor tehnice de apărare împotriva incendiilor prin personal anume desemnat și instruit.",
+        "incorrect_answers": [
+          "Să realizeze audituri de securitate la incendiu la fiecare 10 ani.",
+          "Să asigure numai inspecții externe pentru verificarea conformității."
+        ],
+        "options": [
+          "Să execute periodic controlul stării de funcționare a mijloacelor tehnice de apărare împotriva incendiilor prin personal anume desemnat și instruit.",
+          "Să realizeze audituri de securitate la incendiu la fiecare 10 ani.",
+          "Să asigure numai inspecții externe pentru verificarea conformității."
+        ]
+      },
+      {
+        "category": "SSV / Funcții",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce reprezintă funcția de gestionare a imaginii într-un SSV?",
+        "correct_answer": "Analiza, stocarea și prezentarea imaginilor sau secvențelor de imagini.",
+        "incorrect_answers": [
+          "Doar stocarea imaginilor capturate.",
+          "Doar analiza imaginilor capturate."
+        ],
+        "options": [
+          "Analiza, stocarea și prezentarea imaginilor sau secvențelor de imagini.",
+          "Doar stocarea imaginilor capturate.",
+          "Doar analiza imaginilor capturate."
+        ]
+      },
+      {
+        "category": "PSI & Sisteme de Incendiu",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este scopul principal al sistemelor de detectare și alarmare la incendiu?",
+        "correct_answer": "Detectarea precoce a incendiilor pentru a permite evacuarea rapidă și intervenția pompierilor.",
+        "incorrect_answers": [
+          "Limitarea daunelor materiale cauzate de incendii.",
+          "Asigurarea respectării reglementărilor de securitate la incendiu."
+        ],
+        "options": [
+          "Detectarea precoce a incendiilor pentru a permite evacuarea rapidă și intervenția pompierilor.",
+          "Limitarea daunelor materiale cauzate de incendii.",
+          "Asigurarea respectării reglementărilor de securitate la incendiu."
+        ]
+      },
+      {
+        "category": "I&HAS / Testare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce etapă implică testarea performanței fiecărui detector într-un sistem tehnic de detecție și semnalizare a efracției (I&HAS)?",
+        "correct_answer": "Încercarea funcțională.",
+        "incorrect_answers": [
+          "Inspecția sistemului.",
+          "Predarea sistemului."
+        ],
+        "options": [
+          "Inspecția sistemului.",
+          "Predarea sistemului.",
+          "Încercarea funcțională."
+        ]
+      },
+      {
+        "category": "Detectoare mișcare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este unul dintre dezavantajele principale ale detectoarelor de mișcare cu ultrasunete pasive?",
+        "correct_answer": "Prezența obiectelor în zona protejată poate crea zone moarte.",
+        "incorrect_answers": [
+          "Sunt afectate de interferențe electrice și căldură.",
+          "Nu pot detecta vibrații cu frecvențe peste 20 kHz."
+        ],
+        "options": [
+          "Sunt afectate de interferențe electrice și căldură.",
+          "Prezența obiectelor în zona protejată poate crea zone moarte.",
+          "Nu pot detecta vibrații cu frecvențe peste 20 kHz."
+        ]
+      },
+      {
+        "category": "Detectoare vibrații",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Pe ce tip de suprafețe se recomandă evitarea instalării traductoarelor pentru detectoarele de vibrații?",
+        "correct_answer": "Pereți din PAL, placaj sau tablă subțire",
+        "incorrect_answers": [
+          "Pereți din beton armat",
+          "Cadre metalice continue"
+        ],
+        "options": [
+          "Pereți din PAL, placaj sau tablă subțire",
+          "Pereți din beton armat",
+          "Cadre metalice continue"
+        ]
+      },
+      {
+        "category": "CCTV / HG 301/2012",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Conform HG 301/2012, ce componente trebuie să includă un subsistem de televiziune cu circuit închis?",
+        "correct_answer": "Camerele video, echipamentele de multiplexare, stocare și posibilitatea de vizualizare a imaginilor.",
+        "incorrect_answers": [
+          "Doar camerele video.",
+          "Echipamente de înregistrare audio și video."
+        ],
+        "options": [
+          "Camerele video, echipamentele de multiplexare, stocare și posibilitatea de vizualizare a imaginilor.",
+          "Doar camerele video.",
+          "Echipamente de înregistrare audio și video."
+        ]
+      }
+    ],
+    [
+      {
+        "category": "Detectoare fum / Tavane șed",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cum se amplasează detectoarele de fum în încăperile cu tavan/acoperiș de tip șed, cu distanța hs mai mică de 0,6 m?",
+        "correct_answer": "Pe suprafața tavanului/acoperișului cu unghiul de înclinare mai mic.",
+        "incorrect_answers": [
+          "Pe tavanul cu unghiul de înclinare mai mare de 20°.",
+          "Direct sub vârful acoperișului."
+        ],
+        "options": [
+          "Pe tavanul cu unghiul de înclinare mai mare de 20°.",
+          "Pe suprafața tavanului/acoperișului cu unghiul de înclinare mai mic.",
+          "Direct sub vârful acoperișului."
+        ]
+      },
+      {
+        "category": "IDSAI / Cablare & EMI",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cum trebuie separate circuitele sistemului de alarmă la incendiu (IDSAI) de alte circuite electrice pentru a proteja împotriva perturbațiilor electromagnetice?",
+        "correct_answer": "Prin ecrane izolate sau legate la priza de pământ sau pozarea la o distanță adecvată.",
+        "incorrect_answers": [
+          "Prin montarea într-o conductă comună cu alte circuite electrice.",
+          "Prin așezarea direct lângă circuitele de joasă tensiune pentru a minimiza spațiul."
+        ],
+        "options": [
+          "Prin montarea într-o conductă comună cu alte circuite electrice.",
+          "Prin ecrane izolate sau legate la priza de pământ sau pozarea la o distanță adecvată.",
+          "Prin așezarea direct lângă circuitele de joasă tensiune pentru a minimiza spațiul."
+        ]
+      },
+      {
+        "category": "IDSAI / Marcaj circuite",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Cum trebuie marcate circuitele electrice ale IDSAI pentru a asigura identificarea și separarea corespunzătoare?",
+        "correct_answer": "Prin marcarea adecvată sau etichetarea la intervale de maxim 2 m.",
+        "incorrect_answers": [
+          "Doar prin culoarea distinctivă a mantalei sau învelișului exterior.",
+          "Prin montarea în tuburi comune cu circuitele electrice de uz general."
+        ],
+        "options": [
+          "Prin marcarea adecvată sau etichetarea la intervale de maxim 2 m.",
+          "Doar prin culoarea distinctivă a mantalei sau învelișului exterior.",
+          "Prin montarea în tuburi comune cu circuitele electrice de uz general."
+        ]
+      },
+      {
+        "category": "IDSAI / Distanțe de separare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este distanța minimă de separare între circuitele electrice ale IDSAI și cablurile la tensiuni mai mari de 1000 V dacă sunt în același tunel sau canal tehnic?",
+        "correct_answer": "40 cm",
+        "incorrect_answers": [
+          "20 cm",
+          "60 cm"
+        ],
+        "options": [
+          "20 cm",
+          "40 cm",
+          "60 cm"
+        ]
+      },
+      {
+        "category": "IDSAI / Rezistență la foc",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cât timp trebuie să reziste la foc cablurile între ECS și dispozitivele de alarmare în clădirile înalte și spitale?",
+        "correct_answer": "90 minute",
+        "incorrect_answers": [
+          "30 minute",
+          "60 minute"
+        ],
+        "options": [
+          "30 minute",
+          "60 minute",
+          "90 minute"
+        ]
+      },
+      {
+        "category": "ECS / Amplasare",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Unde trebuie amplasat echipamentul de control și semnalizare (ECS) pentru acces facil și protecție corespunzătoare?",
+        "correct_answer": "Cât mai aproape de centrul de greutate al rețelei, preferabil la parter, în spații ușor accesibile din exterior, în vecinătatea ușilor de acces pentru intervenție.",
+        "incorrect_answers": [
+          "În subsolul clădirii, pentru a fi protejat de accesul publicului.",
+          "Într-un spațiu comun cu alte utilități, cum ar fi conductele de apă și gaze."
+        ],
+        "options": [
+          "În subsolul clădirii, pentru a fi protejat de accesul publicului.",
+          "Cât mai aproape de centrul de greutate al rețelei, preferabil la parter, în spații ușor accesibile din exterior, în vecinătatea ușilor de acces pentru intervenție.",
+          "Într-un spațiu comun cu alte utilități, cum ar fi conductele de apă și gaze."
+        ]
+      },
+      {
+        "category": "SSV / Interfețe",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este scopul interfețelor unui SSV cu alte sisteme?",
+        "correct_answer": "Să permită accesul reciproc și confortabil la funcționalități și date.",
+        "incorrect_answers": [
+          "Să reducă dimensiunea imaginilor stocate.",
+          "Să controleze doar camerele video din rețea."
+        ],
+        "options": [
+          "Să permită accesul reciproc și confortabil la funcționalități și date.",
+          "Să reducă dimensiunea imaginilor stocate.",
+          "Să controleze doar camerele video din rețea."
+        ]
+      },
+      {
+        "category": "CCTV / Selectare cameră",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce trebuie luat în considerare la selectarea echipamentului camerei pentru a îndeplini cerințele operaționale?",
+        "correct_answer": "Rezoluția vizuală măsurată, câmpul de vizualizare și performanța la lumină scăzută.",
+        "incorrect_answers": [
+          "Numărul total de camere din sistem.",
+          "Capacitatea de stocare a sistemului."
+        ],
+        "options": [
+          "Numărul total de camere din sistem.",
+          "Capacitatea de stocare a sistemului.",
+          "Rezoluția vizuală măsurată, câmpul de vizualizare și performanța la lumină scăzută."
+        ]
+      },
+      {
+        "category": "Optică / Obiective",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce criteriu este important pentru selectarea unui obiectiv de cameră pentru a evita fenomenul de vignetare?",
+        "correct_answer": "Diametrul obiectivului să fie egal sau mai mare decât diagonala senzorului de imagine.",
+        "incorrect_answers": [
+          "Distanța focală a obiectivului.",
+          "Sensibilitatea senzorului de imagine."
+        ],
+        "options": [
+          "Distanța focală a obiectivului.",
+          "Diametrul obiectivului să fie egal sau mai mare decât diagonala senzorului de imagine.",
+          "Sensibilitatea senzorului de imagine."
+        ]
+      },
+      {
+        "category": "CCTV / Cerințe imagini",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce dimensiune minimă a țintei pe ecran este recomandată pentru a recunoaște o persoană la rezoluție PAL (576i)?",
+        "correct_answer": "50% din înălțimea ecranului.",
+        "incorrect_answers": [
+          "25% din înălțimea ecranului.",
+          "100% din înălțimea ecranului."
+        ],
+        "options": [
+          "50% din înălțimea ecranului.",
+          "25% din înălțimea ecranului.",
+          "100% din înălțimea ecranului."
+        ]
+      },
+      {
+        "category": "SSV / Securitate fizică",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Care este cea mai importantă considerație pentru protecția împotriva sabotării camerei SSV?",
+        "correct_answer": "Instalarea camerei într-un loc adecvat securizat și utilizarea de elemente de fixare de securitate.",
+        "incorrect_answers": [
+          "Tipul de iluminare utilizat.",
+          "Rezoluția ecranului de afișare."
+        ],
+        "options": [
+          "Tipul de iluminare utilizat.",
+          "Instalarea camerei într-un loc adecvat securizat și utilizarea de elemente de fixare de securitate.",
+          "Rezoluția ecranului de afișare."
+        ]
+      },
+      {
+        "category": "HG 301/2012 / Montaj",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce este important de luat în considerare la montarea echipamentelor conform HG 301/2012?",
+        "correct_answer": "Montarea echipamentelor în locurile prestabilite conform proiectului, jurnalului de cabluri și schemelor de conexiuni.",
+        "incorrect_answers": [
+          "Alegerea unui loc convenabil pentru instalator.",
+          "Utilizarea unor cabluri de orice tip pentru conectare."
+        ],
+        "options": [
+          "Montarea echipamentelor în locurile prestabilite conform proiectului, jurnalului de cabluri și schemelor de conexiuni.",
+          "Alegerea unui loc convenabil pentru instalator.",
+          "Utilizarea unor cabluri de orice tip pentru conectare."
+        ]
+      },
+      {
+        "category": "SSV / Documentație",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce documentație este esențială pentru instalarea unui Sistem de Supraveghere Video (SSV)?",
+        "correct_answer": "Manualele de instalare, planurile de cablare și instrucțiunile de punere în funcțiune.",
+        "incorrect_answers": [
+          "Doar specificațiile tehnice ale cablurilor.",
+          "Manualul de utilizare pentru echipamentele audio."
+        ],
+        "options": [
+          "Manualele de instalare, planurile de cablare și instrucțiunile de punere în funcțiune.",
+          "Doar specificațiile tehnice ale cablurilor.",
+          "Manualul de utilizare pentru echipamentele audio."
+        ]
+      },
+      {
+        "category": "SSV / Condiții montaj",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce aspect trebuie luat în considerare la montarea echipamentelor SSV în condiții de instalare variate (interior/exterior)?",
+        "correct_answer": "Condițiile meteo și tipurile de suporturi de fixare adecvate.",
+        "incorrect_answers": [
+          "Doar tipul de cabluri utilizate.",
+          "Exclusiv utilizarea echipamentelor audio."
+        ],
+        "options": [
+          "Doar tipul de cabluri utilizate.",
+          "Exclusiv utilizarea echipamentelor audio.",
+          "Condițiile meteo și tipurile de suporturi de fixare adecvate."
+        ]
+      },
+      {
+        "category": "Sisteme efracție / ECS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care dintre următoarele este o condiție necesară pentru încăperile destinate echipamentelor de control și semnalizare aferente sistemelor de alarmă împotriva efracției?",
+        "correct_answer": "Să fie situate de regulă la parter, în vecinătatea acceselor de intervenție a pompierilor.",
+        "incorrect_answers": [
+          "Să fie amplasate la cel mai înalt nivel al clădirii.",
+          "Să fie dotate exclusiv cu echipamente de climatizare avansată."
+        ],
+        "options": [
+          "Să fie amplasate la cel mai înalt nivel al clădirii.",
+          "Să fie situate de regulă la parter, în vecinătatea acceselor de intervenție a pompierilor.",
+          "Să fie dotate exclusiv cu echipamente de climatizare avansată."
+        ]
+      },
+      {
+        "category": "IDSAI / Transmitere alarmă",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce condiție trebuie îndeplinită în cazul posibilității de întârziere a transmisiei semnalului alarmei împotriva incendiilor către un centru cu comandă de la distanță?",
+        "correct_answer": "IDSAI va aștepta 30 secunde pentru confirmarea semnalului de alarmă înainte de transmitere.",
+        "incorrect_answers": [
+          "Semnalul de alarmă trebuie transmis imediat, fără nicio întârziere.",
+          "Semnalul de alarmă trebuie transmis după 10 minute de confirmare."
+        ],
+        "options": [
+          "Semnalul de alarmă trebuie transmis imediat, fără nicio întârziere.",
+          "IDSAI va aștepta 30 secunde pentru confirmarea semnalului de alarmă înainte de transmitere.",
+          "Semnalul de alarmă trebuie transmis după 10 minute de confirmare."
+        ]
+      },
+      {
+        "category": "EACS / Inspecție",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Ce se verifică în etapa de inspecție a unui sistem tehnic de control al accesului (EACS) înainte de punerea în funcțiune?",
+        "correct_answer": "Conformitatea documentației și a instalației cu instrucțiunile de proiectare.",
+        "incorrect_answers": [
+          "Corectitudinea informațiilor furnizate de detectoare de fum.",
+          "Numărul total de utilizatori înregistrați în sistem."
+        ],
+        "options": [
+          "Conformitatea documentației și a instalației cu instrucțiunile de proiectare.",
+          "Corectitudinea informațiilor furnizate de detectoare de fum.",
+          "Numărul total de utilizatori înregistrați în sistem."
+        ]
+      },
+      {
+        "category": "I&HAS / CIE",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce rol joacă echipamentele de control și indicare (CIE) într-un sistem tehnic de detecție și semnalizare a efracției (I&HAS)?",
+        "correct_answer": "Procesarea semnalelor de la detectoare și activarea sistemelor de transmisie a alarmelor și a dispozitivelor de avertizare.",
+        "incorrect_answers": [
+          "Emiterea semnalelor sonore și vizuale în caz de alarmă.",
+          "Asigurarea alimentării neîntrerupte a sistemului."
+        ],
+        "options": [
+          "Emiterea semnalelor sonore și vizuale în caz de alarmă.",
+          "Asigurarea alimentării neîntrerupte a sistemului.",
+          "Procesarea semnalelor de la detectoare și activarea sistemelor de transmisie a alarmelor și a dispozitivelor de avertizare."
+        ]
+      },
+      {
+        "category": "EACS / ACU",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Care este rolul principal al unității de control al accesului (ACU) într-un sistem tehnic de control al accesului (EACS)?",
+        "correct_answer": "Gestionarea punctelor de acces și interacțiunile utilizatorilor.",
+        "incorrect_answers": [
+          "Detectarea stării ușilor (deschisă/închisă).",
+          "Emiterea semnalelor sonore în caz de alarmă."
+        ],
+        "options": [
+          "Gestionarea punctelor de acces și interacțiunile utilizatorilor.",
+          "Detectarea stării ușilor (deschisă/închisă).",
+          "Emiterea semnalelor sonore în caz de alarmă."
+        ]
+      },
+      {
+        "category": "EACS / Cablare",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ce trebuie luat în considerare la instalarea cablurilor pentru un sistem tehnic de control al accesului (EACS)?",
+        "correct_answer": "Minimizarea căderii tensiunii și pierderilor de semnal și protecția împotriva sabotajului.",
+        "incorrect_answers": [
+          "Numărul total de utilizatori.",
+          "Configurarea sistemului după preferințele individuale ale utilizatorilor."
+        ],
+        "options": [
+          "Minimizarea căderii tensiunii și pierderilor de semnal și protecția împotriva sabotajului.",
+          "Numărul total de utilizatori.",
+          "Configurarea sistemului după preferințele individuale ale utilizatorilor."
+        ]
+      }
+    ]
+  ]
+}
