@@ -34,7 +34,7 @@ const Stats = ({
         Your Score: {score}%
       </Header>
       <Header as="h3" textAlign="center" block>
-        Passing Score: 60%
+        Passing Score: 50% (10/20)
       </Header>
       <Header as="h3" textAlign="center" block>
         Time Taken:{' '}

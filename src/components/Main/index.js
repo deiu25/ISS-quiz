@@ -62,33 +62,47 @@ function computeQuizSets(raw) {
   return [];
 }
 
+const RANDOM_ID = 'RANDOM_20';
+
 const Main = ({ startQuiz }) => {
   // Build quiz sets once
   const QUIZ_SETS = useMemo(() => computeQuizSets(mockQuizzes), []);
 
+  // All questions flattened (for random quiz). Deduplicate by question text.
+  const ALL_QUESTIONS = useMemo(() => {
+    const flat = QUIZ_SETS.flatMap(q => Array.isArray(q.questions) ? q.questions : []);
+    const seen = new Set();
+    const uniq = [];
+    for (const q of flat) {
+      const key = (q?.question || '').trim();
+      if (!key || seen.has(key)) continue;
+      seen.add(key);
+      uniq.push(q);
+    }
+    return uniq;
+  }, [QUIZ_SETS]);
+
   const QUIZ_OPTIONS = useMemo(
-    () =>
-      QUIZ_SETS.map(q => ({
+    () => ([
+      ...QUIZ_SETS.map(q => ({
         key: q.id,
         value: q.id,
         text: q.title,
       })),
+      { key: RANDOM_ID, value: RANDOM_ID, text: 'Quiz Random (20)' },
+    ]),
     [QUIZ_SETS]
   );
 
-  // Compute a safe default "30 minutes" value from COUNTDOWN_TIME.minutes,
-  // regardless if values are in minutes or seconds.
+  // Compute a safe default "30 minutes" value from COUNTDOWN_TIME.minutes
   const DEFAULT_MINUTES_VALUE = useMemo(() => {
     const opts = COUNTDOWN_TIME?.minutes || [];
-    // try by label text "30"
     const byText = opts.find(o => String(o.text).includes('30'))?.value;
     if (byText !== undefined) return byText;
-    // try common encodings
     const bySec = opts.find(o => Number(o.value) === 30 * 60)?.value;
     if (bySec !== undefined) return bySec;
     const byMin = opts.find(o => Number(o.value) === 30)?.value;
     if (byMin !== undefined) return byMin;
-    // fallback
     return opts[0]?.value ?? 30 * 60;
   }, []);
 
@@ -112,29 +126,46 @@ const Main = ({ startQuiz }) => {
 
   const allFieldsSelected = selectedQuizId && totalTime > 0;
 
-  const startLocalQuiz = () => {
-    if (error) setError(null);
-    setProcessing(true);
-
-    const selected = QUIZ_SETS.find(q => q.id === selectedQuizId);
-    if (!selected || !Array.isArray(selected.questions) || selected.questions.length === 0) {
-      setProcessing(false);
-      setError({ message: 'Nu am găsit întrebări pentru acest quiz.' });
-      return;
-    }
-
-    const prepared = selected.questions.map(q => {
+  const buildPrepared = (questions) => {
+    return questions.map(q => {
       const hasOptions = Array.isArray(q.options) && q.options.length > 0;
       const options = hasOptions
         ? shuffle(q.options.slice())
         : shuffle([q.correct_answer, ...(q.incorrect_answers || [])]);
       return { ...q, options };
     });
+  };
+
+  const startLocalQuiz = () => {
+    if (error) setError(null);
+    setProcessing(true);
+
+    let selectedQuestions = [];
+
+    if (selectedQuizId === RANDOM_ID) {
+      const pool = ALL_QUESTIONS.slice();
+      if (pool.length === 0) {
+        setProcessing(false);
+        setError({ message: 'Nu am găsit întrebări în baza locală.' });
+        return;
+      }
+      selectedQuestions = shuffle(pool).slice(0, 20);
+    } else {
+      const selected = QUIZ_SETS.find(q => q.id === selectedQuizId);
+      if (!selected || !Array.isArray(selected.questions) || selected.questions.length === 0) {
+        setProcessing(false);
+        setError({ message: 'Nu am găsit întrebări pentru acest quiz.' });
+        return;
+      }
+      selectedQuestions = selected.questions;
+    }
+
+    const prepared = buildPrepared(selectedQuestions);
 
     setTimeout(() => {
       setProcessing(false);
       startQuiz(prepared, totalTime);
-    }, 500);
+    }, 300);
   };
 
   return (
